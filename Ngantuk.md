@@ -1,2 +1,0 @@
-# ngantuk
-ngantuk.sh
